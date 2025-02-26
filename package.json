@@ -1,6 +1,6 @@
 {
   "name": "bmi_calculator",
-  "homepage": "https://Darshan9121.github.io/React-BMI-Calculator",
+  "homepage": "https://67beceaf530efc93f8cce2df--soft-kangaroo-9813ea.netlify.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -43,6 +43,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "tailwindcss": "^3.4.13"
   }
 }

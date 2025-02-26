@@ -11,7 +11,7 @@ function App() {
 
     
          
-    <BrowserRouter basename='/React-BMI-Calculator'>
+    <BrowserRouter basename='/'>
     <Routes>
     <Route path="/home" element={<Home />}/>
     <Route path="/result" element={<Result/>}/>

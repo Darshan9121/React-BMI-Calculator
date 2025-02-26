@@ -30,7 +30,7 @@ const Home = () => {
     
    
      
-                <div className={`${!theme?"text-black bg-white":"text-white bg-black"} p-8`}>
+                <div className={`${!theme?"text-black bg-white":"text-white bg-black"} p-8 h-dvh`}>
                   <div className='flex flex-col gap-5'>
                   <Navbar />
                   {
